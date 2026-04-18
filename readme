@@ -1,0 +1,21 @@
+npm install -g @anthropic-ai/claude-code
+
+# 验证安装成功
+claude --version
+
+
+C:\Users\86152\.claude\settings.json
+https://open.bigmodel.cn/apikey/platform get ANTHROPIC_AUTH_TOKEN apikey
+{
+  "env": {
+    "ANTHROPIC_AUTH_TOKEN": "41f6b8c2393f44bf942fb2f2aea5c3e6.Yx9kGE3yT1tihzk7",
+    "ANTHROPIC_BASE_URL": "https://open.bigmodel.cn/api/anthropic",
+    "API_TIMEOUT_MS": "3000000",
+    "CLAUDE_CODE_DISABLE_NONESSENTIAL_TRAFFIC": 1,
+    "ANTHROPIC_DEFAULT_HAIKU_MODEL": "glm-4.5-air",
+    "ANTHROPIC_DEFAULT_SONNET_MODEL": "glm-5.1",
+    "ANTHROPIC_DEFAULT_OPUS_MODEL": "glm-5.1"
+  }
+}
+
+open claude cmd in terminal
