@@ -1,4 +1,5 @@
 npm install -g @anthropic-ai/claude-code
+https://chat.deepseek.com/share/fkokzfmj4awba1dz7e
 
 # 验证安装成功
 claude --version
